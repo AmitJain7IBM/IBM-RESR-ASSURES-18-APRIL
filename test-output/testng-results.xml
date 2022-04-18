@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4103" started-at="2022-04-18T04:35:35Z" finished-at="2022-04-18T04:35:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4103" started-at="2022-04-18T04:35:35Z" finished-at="2022-04-18T04:35:39Z">
+      <class name="FST_Rest_Assured.FST_Rest_Assured.tyicodeClass">
+        <test-method status="PASS" signature="GETtypicode()[pri:0, instance:FST_Rest_Assured.FST_Rest_Assured.tyicodeClass@35bbe5e8]" name="GETtypicode" duration-ms="1899" started-at="2022-04-18T10:05:35Z" finished-at="2022-04-18T10:05:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GETtypicode -->
+        <test-method status="PASS" signature="PUTtypicode()[pri:0, instance:FST_Rest_Assured.FST_Rest_Assured.tyicodeClass@35bbe5e8]" name="PUTtypicode" duration-ms="1651" started-at="2022-04-18T10:05:37Z" finished-at="2022-04-18T10:05:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PUTtypicode -->
+        <test-method status="PASS" signature="DELETEtypicode()[pri:0, instance:FST_Rest_Assured.FST_Rest_Assured.tyicodeClass@35bbe5e8]" name="DELETEtypicode" duration-ms="545" started-at="2022-04-18T10:05:39Z" finished-at="2022-04-18T10:05:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DELETEtypicode -->
+      </class> <!-- FST_Rest_Assured.FST_Rest_Assured.tyicodeClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
